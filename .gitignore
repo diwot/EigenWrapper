@@ -1,0 +1,9 @@
+eigen/.hgtags
+eigen/.hgignore
+eigen/.hgeol
+eigen/.hg_archival.txt
+EigenWrapper/x64/
+EigenWrapper/Release/
+EigenWrapper/Debug/
+EigenWrapper/.vs/
+EigenWrapper/EigenWrapper.sdf
